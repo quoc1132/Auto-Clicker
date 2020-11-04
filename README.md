@@ -1,3 +1,4 @@
+#Best Auto Clicker Android App
 
 Automatically click or swipe anywhere on the screen you want with custom durations.
 Auto Clicker doesn’t require root access
