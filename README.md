@@ -1,7 +1,5 @@
 #Best Auto Clicker Android App
 
-Link down load (https://play.google.com/store/apps/details?id=uit.quocnguyen.autoclicker)
-
 Automatically click or swipe anywhere on the screen you want with custom durations.
 Auto Clicker doesn’t require root access
 Install Auto Clicker right now to save your time, it's free for you.
