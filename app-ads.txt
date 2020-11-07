@@ -32,3 +32,4 @@ smartadserver.com, 3020, RESELLER
 google.com, pub-9952792255297159, RESELLER
 telaria.com, rwd19-2256935, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2256935, RESELLER, 1a4e959a1b50034a
+google.com, pub-3629512717700024, DIRECT, f08c47fec0942fa0
